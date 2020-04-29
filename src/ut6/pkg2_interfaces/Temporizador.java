@@ -30,6 +30,7 @@ public class Temporizador {
         JOptionPane.showMessageDialog(null, "Pulsa aceptar para detener");
         
         System.exit(0);
+        System.out.println("Cambio nuevo para el commit");
     }
     
 }
