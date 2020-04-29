@@ -31,6 +31,7 @@ public class Temporizador {
         
         System.exit(0);
         System.out.println("Cambio nuevo para el commit");
+        System.out.println("Cambio nuevo para el segundo commit");
     }
     
 }
